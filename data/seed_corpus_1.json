@@ -43,5 +43,18 @@
     "source_type": "secondary_scholarship",
     "verified": true,
     "note": "Secondary source \u2014 cite as scholarship, not as an inscription. Use for the hoarding/penalty precedent your Sabha agent enforces."
-  }
-]
+  },
+  "verified": true,
+       "note": "..."
+     },
+     {
+       "id": "sii3_ukkal_tank_boats_upkeep",
+       "text": "In the fourth year of the reign of king Parakesarivarman...",
+       "citation": "South Indian Inscriptions, Vol. III — Ukkal inscription...",
+       "theme": "assembly-managed endowment funding maintenance of tank infrastructure (boats/odam serving the eri)",
+       "source_type": "primary_inscription",
+       "verified": true,
+       "note": "OCR-cleaned from SII Vol. III djvu text; confirm the exact inscription number and wording against the archive.org scan before final publication."
+     }
+   ]
+  

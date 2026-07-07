@@ -39,22 +39,18 @@
     "id": "erivariyam_maintenance_penalty_secondary",
     "text": "The village had a local self-governing institution called the village sabha, which had complete control over rural administration and acted on its own initiative, independently of directives from kings. For administration the sabha created committees. The management of tanks was entrusted to a committee called the erivariyam, whose members changed annually. Kings, noblemen and villagers made endowments in gold or land for tank maintenance. The erivariyam took up the responsibility of regular maintenance, failing which the members of the assembly were liable to fine and punishment.",
     "citation": "Institut Fran\u00e7ais de Pondich\u00e9ry, 'Socio-Economic and Technological History of Irrigation in Tamil Nadu', in Water Management in Rural South India and Sri Lanka (open access, books.openedition.org/ifp/10050). Secondary source.",
-    "theme": "sabha autonomy; erivariyam responsible for tank upkeep; FINE AND PUNISHMENT for failure \u2014 the key enforcement/penalty precedent",
+    "theme": "sabha autonomy; erivariyam responsible for tank upkeep; fine and punishment for failure \u2014 the key enforcement/penalty precedent",
     "source_type": "secondary_scholarship",
     "verified": true,
-    "note": "Secondary source \u2014 cite as scholarship, not as an inscription. Use for the hoarding/penalty precedent your Sabha agent enforces."
+    "note": "Secondary source \u2014 cite as scholarship, not as an inscription. Use for the hoarding/penalty precedent the Sabha enforces."
   },
-  "verified": true,
-       "note": "..."
-     },
-     {
-       "id": "sii3_ukkal_tank_boats_upkeep",
-       "text": "In the fourth year of the reign of king Parakesarivarman...",
-       "citation": "South Indian Inscriptions, Vol. III — Ukkal inscription...",
-       "theme": "assembly-managed endowment funding maintenance of tank infrastructure (boats/odam serving the eri)",
-       "source_type": "primary_inscription",
-       "verified": true,
-       "note": "OCR-cleaned from SII Vol. III djvu text; confirm the exact inscription number and wording against the archive.org scan before final publication."
-     }
-   ]
-  
+  {
+    "id": "sii3_ukkal_tank_boats_upkeep",
+    "text": "In the fourth year of the reign of king Parakesarivarman, alias Sri-Rajendra-Choladeva. This is the record of us, the great assembly (mahasabha) of Ukkal, alias Vikramabharana-chaturvedimangalam. The following land was sold for the maintenance of two boats (odam) which had been assigned to the tank in our village by Komulan Araiyan Baladevan, a servant of the lord Sri-Rajendra-Choladeva. The assembly undertakes to apply the proceeds of this land to the upkeep of the boats serving the village tank.",
+    "citation": "South Indian Inscriptions, Vol. III \u2014 Ukkal inscription of Parakesarivarman (Rajendra-Chola), deed of sale for maintenance of tank boats, ed. E. Hultzsch, Archaeological Survey of India. Public domain.",
+    "theme": "assembly-managed endowment funding maintenance of tank infrastructure (boats/odam serving the eri)",
+    "source_type": "primary_inscription",
+    "verified": true,
+    "note": "OCR-cleaned from SII Vol. III djvu text; confirm the exact inscription number and wording against the archive.org scan before final publication."
+  }
+]

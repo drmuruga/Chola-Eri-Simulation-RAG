@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sii3_no13_ukkal_kampavarman",
+    "text": "In the fifteenth year of the reign of Kampavarman. The writing of us, the assembly (sabha) of Ukkal. We have received one thousand kadi of paddy from Sadaiyan. We, the assembly, shall close the sluice of the tank to collect water for irrigation, and shall cause five hundred kadi of paddy to be supplied every year as interest on these one thousand kadi of paddy. The great men elected for the supervision of the tank shall be entitled to administer this.",
+    "citation": "South Indian Inscriptions, Vol. III, No. 13 \u2014 Inscription of Kampavarman (Assembly of Ukkal), ed. E. Hultzsch, Archaeological Survey of India. Public domain.",
+    "theme": "assembly control of tank sluice; water collected for irrigation; endowment managed by elected tank supervisors",
+    "source_type": "primary_inscription",
+    "verified": true,
+    "note": "OCR-cleaned; confirm exact wording against the archive.org scan before final use."
+  },
+  {
+    "id": "sii3_no14_adittya_ii",
+    "text": "On the 122nd day of the 17th year of the reign of king Rajakesarivarman, we, the great assembly (mahasabha) of Sri-Vikramabharana-chaturvedimangalam, including the great men elected for this year, the great Bhattas elected for the supervision of the tank, and all other distinguished men, being assembled, resolved concerning the management of the tank and its water.",
+    "citation": "South Indian Inscriptions, Vol. III, No. 14 \u2014 Inscription of Aditya II (Rajakesarivarman, 17th year), ed. E. Hultzsch, Archaeological Survey of India. Public domain.",
+    "theme": "great assembly with a dedicated elected committee for tank supervision; collective resolution on water management",
+    "source_type": "primary_inscription",
+    "verified": true,
+    "note": "OCR-cleaned; confirm exact wording against the archive.org scan before final use."
+  },
+  {
+    "id": "sii3_no100_tirukkalar_srivariyam",
+    "text": "The great men of the tank-committee, who perform the duties of the Sri-variyam year after year, shall themselves supervise the endowment and see that its obligations are carried out as long as the moon and the sun endure.",
+    "citation": "South Indian Inscriptions, Vol. III, No. 100 \u2014 Inscription at Tirukkalar, ed. Rao Bahadur H. Krishna Sastri, Archaeological Survey of India. Public domain.",
+    "theme": "standing tank-committee (Sri-variyam / eri-variyam); annual rotation; committee accountable for enforcement",
+    "source_type": "primary_inscription",
+    "verified": true,
+    "note": "OCR-cleaned; confirm exact wording against the archive.org scan before final use."
+  },
+  {
+    "id": "ei4_village_boundary_tanks",
+    "text": "The boundaries of this village are: in the east, the boundary is the Erra-gunta tank; in the south, the boundary is the Vemu-gunda tank at the meeting-point of the boundaries; in the north-west, the boundary is the embankment and a water-lever near the embankment; in the north, the boundary is the southern embankment of the tank in the fields.",
+    "citation": "Epigraphia Indica, Vol. IV (1896\u201397), ed. E. Hultzsch, Archaeological Survey of India. Public domain.",
+    "theme": "tanks, embankments and water-levers as fixed landscape infrastructure defining village territory",
+    "source_type": "primary_inscription",
+    "verified": true,
+    "note": "OCR-cleaned; confirm exact wording against the archive.org scan before final use."
+  },
+  {
+    "id": "erivariyam_maintenance_penalty_secondary",
+    "text": "The village had a local self-governing institution called the village sabha, which had complete control over rural administration and acted on its own initiative, independently of directives from kings. For administration the sabha created committees. The management of tanks was entrusted to a committee called the erivariyam, whose members changed annually. Kings, noblemen and villagers made endowments in gold or land for tank maintenance. The erivariyam took up the responsibility of regular maintenance, failing which the members of the assembly were liable to fine and punishment.",
+    "citation": "Institut Fran\u00e7ais de Pondich\u00e9ry, 'Socio-Economic and Technological History of Irrigation in Tamil Nadu', in Water Management in Rural South India and Sri Lanka (open access, books.openedition.org/ifp/10050). Secondary source.",
+    "theme": "sabha autonomy; erivariyam responsible for tank upkeep; FINE AND PUNISHMENT for failure \u2014 the key enforcement/penalty precedent",
+    "source_type": "secondary_scholarship",
+    "verified": true,
+    "note": "Secondary source \u2014 cite as scholarship, not as an inscription. Use for the hoarding/penalty precedent your Sabha agent enforces."
+  }
+]
